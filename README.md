@@ -1,9 +1,10 @@
 # MasterMind
 Simulates the classic board game "Master Mind" on a console window.
-Written in Fortran 95 using Silverfrost's Plato IDE. It was the final assignment for the 1st semester course "Computer Programming".
+It is written in Fortran 95 using Silverfrost's Plato IDE.
+It was the final assignment for the course "Computer Programming" at the Department of Mechanical Engineering of the University of Thessaly.
 
 # Instructions
-Download the folder containing the executable (.exe) and run it.
+Download the folder "Master Mind". Run the executable (.exe) and follow the on-screen instructions.
 The .dll and .txt files must be in the same folder as the .exe.
 Source code is in "Master_Mind.f95".
 
