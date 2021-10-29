@@ -8,6 +8,9 @@ Download the folder "Master Mind". Run the executable (.exe) and follow the on-s
 The .dll and .txt files must be in the same folder as the .exe.
 Source code is in "Master_Mind.f95".
 
+# Screenshot
+![](https://github.com/FK-MAD/MasterMind/blob/main/Master%20Mind/mastermind_screenshot.PNG?raw=true)
+
 # License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License][cc-by-nc-nd].
